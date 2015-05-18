@@ -1,0 +1,72 @@
+body {
+	font-family: 'Dosis', sans-serif;
+}
+
+hr {
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 4px solid #BCBBBB;
+    margin-bottom: 1em 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+.title-logo {
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.title-name {
+	text-align: right;
+	color: #747704;
+	font-size: 55px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.title-desc {
+	text-align: right;
+	color: #747704;
+	font-size: 25px;
+	margin: 0px;
+
+}
+
+.featured {
+	color: #BCBBBB;
+	font-weight: 300;
+	font-size: 50px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	padding-left: 20px
+}
+
+.work-link {
+	color: #747704;
+	font-weight: 200;
+	padding-left: 8px;
+	padding-right: 8px;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.work-name {
+	color: #747704;
+	font-weight: 800;
+	padding-left: 8px;
+	padding-right: 8px;
+	text-align: center;
+	font-size: 35px;
+	margin-top: 8px;
+	margin-bottom: 0;
+}
+
+.modal-text {
+	color: #747704;
+	font-weight: 300;
+	font-size: 24px;
+	text-align: center;
+}
